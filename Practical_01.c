@@ -1,3 +1,5 @@
+// 1.) Write a C program to implement push, pop, traverse operation in a stack using array.
+
 #include <stdio.h>
 #include <stdlib.h>
 
